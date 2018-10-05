@@ -1,5 +1,6 @@
 ##########################################
 #           Delta-V Calculator           #
+#	 For Kerbal Space Program	 #
 #        Creator: Matthew Toadvine       #
 #          Last Edit: 3/15/2017          #
 ##########################################
